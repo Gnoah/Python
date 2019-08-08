@@ -1,0 +1,15 @@
+//Python django
+
+//creation de projet
+
+	django-admin startproject 'nom projet'
+
+//Pour lancer
+
+	python manage.py runserver
+
+//creation de blog sur mon projet
+
+	python manage.py startapp 'name'
+
+
